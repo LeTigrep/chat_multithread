@@ -23,19 +23,19 @@ si le makefile ne fonctionne pas, utiliser les commandes suivantes
 
 Pour compiler le serveur 
 
-    ```gcc rs_serveur.c -o rs_serveur -lpthread```  
+    `gcc rs_serveur.c -o rs_serveur -lpthread`  
 
 pour executer le serveur 
 
-    ```./rs_serveur 1234``` 
+    `./rs_serveur 1234` 
 
 Pour compiler le client 
 
-    ```gcc rs_client.c -o rs_client -lpthread``` 
+    `gcc rs_client.c -o rs_client -lpthread` 
 
 pour execturer le client 
 
-    ```./rs_client un_nom``` 
+    `./rs_client un_nom` 
 
 ## Fonctionnalités
 

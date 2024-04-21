@@ -2,7 +2,7 @@
 
 ## Présentation du projet : 
 
-Ce projet été réalisé lors de ma deuxième année de Licence informatique. Il met en œuvre une communication réseau de base entre un serveur et plusieurs clients utilisant des sockets TCP, des threads, et des mutex pour gérer l'envoi et la réception de messages. Le serveur peut accepter plusieurs clients simultanément, chacun communiquant avec le serveur via des threads dédiés.
+Ce projet a été réalisé lors de ma deuxième année de Licence informatique. Il met en œuvre une communication réseau de base entre un serveur et plusieurs clients utilisant des sockets TCP, des threads, et des mutex pour gérer l'envoi et la réception de messages. Le serveur peut accepter plusieurs clients simultanément, chacun communiquant avec le serveur via des threads dédiés.
 
 
 ## Structure du Projet
